@@ -29,7 +29,8 @@ int main(){
 
 
 ## Output:
-<img width="266" alt="image" src="https://github.com/user-attachments/assets/bfe8fedc-defc-4ad6-b232-71885ad85e63">
+<img width="245" alt="image" src="https://github.com/user-attachments/assets/29c933dc-9d31-484f-95f2-c0f5d6856a69">
+
 
 
 ## Conclusion: 
